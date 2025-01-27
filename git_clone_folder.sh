@@ -9,7 +9,7 @@ echo "# ========================================================================
 echo "# Date        : $(date +"%Y-%m-%d")"
 echo "# Script Name : $SCRIPT_NAME"
 echo "# Owner       : Vitali M."
-echo "# Description : This script clones a specific folder from a Git repository branchl."
+echo "# Description : This script clones a specific folder from a Git repository branch."
 echo "# ================================================================================= "
 
 cat << "EOF"
