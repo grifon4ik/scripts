@@ -82,54 +82,6 @@ AI was used in:
 ## Final Notes
 This script provides an efficient way to retrieve only the necessary parts of a repository, reducing download times and improving workflow efficiency. Contributions and improvements are welcome!
 
-
-# DevOps Project
-
-## Introduction
-
-This project aims to automate and streamline DevOps processes using the latest tools and best practices.
-
-## Features
-- Continuous Integration and Continuous Deployment (CI/CD)
-- Infrastructure as Code (IaC)
-- Automated Monitoring and Alerts
-- Scalable and Resilient Architecture
-
-## Requirements
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- Prometheus & Grafana
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/devops-project.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd devops-project
-   ```
-3. Run the setup script:
-   ```bash
-   ./setup.sh
-   ```
-
-## Usage
-- Deploy the infrastructure:
-  ```bash
-  terraform apply
-  ```
-- Build and push Docker images:
-  ```bash
-  docker-compose build && docker-compose push
-  ```
-- Deploy to Kubernetes:
-  ```bash
-  kubectl apply -f k8s/
-  ```
-
 ## DevOps Bear
 
 ```
